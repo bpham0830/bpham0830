@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpham0830
+- 👋 Hi, I’m Brian Pham
 - 👀 I’m interested in the field of data analytics
 - 🌱 I’m currently learning to develop skills to become a data analyst
 - 💞️ I’m looking to collaborate on projects/case studies to help me learn more about SQL, R, and data analysis in geneeral
